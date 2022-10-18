@@ -44,9 +44,6 @@ public class login2 extends JFrame implements ActionListener {
                         JOptionPane.showMessageDialog(frame, "Wrong input","",JOptionPane.ERROR_MESSAGE);
                     }
                 }
-
-
-
             }
         });
         resetButton.addActionListener(new ActionListener() {
